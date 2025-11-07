@@ -1,4 +1,4 @@
-[View the deployed web app]([https://your-app-url.streamlit.app](https://diabetespredictionmodel-p42ljruhnmnpo4kkk36uhy.streamlit.app/))
+[View the deployed web app](https://diabetespredictionmodel-p42ljruhnmnpo4kkk36uhy.streamlit.app/)
 
 # Diabetes Prediction Model Using Machine Learning  
 _“Diabetes Prediction Model Using Machine Learning”_  
